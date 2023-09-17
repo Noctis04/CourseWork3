@@ -1,0 +1,33 @@
+\babel@toc {russian}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {russian}{}\relax 
+\contentsline {section}{ВВЕДЕНИЕ}{8}{section*.5}%
+\contentsline {section}{\numberline {1}Анализ предметной области}{10}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Характеристика предприятия и его деятельности. Тест длинного заголовка, не должен содержать переносы}{10}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Аддитивные технологии, их классификация}{11}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Техническое задание}{12}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Основание для разработки}{12}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Цель и назначение разработки}{12}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Требования пользователя к интерфейсу игры}{12}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Моделирование вариантов использования}{13}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Требования к оформлению документации}{14}{subsection.2.5}%
+\contentsline {section}{\numberline {3}Технический проект}{15}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Общая характеристика организации решения задачи}{15}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Обоснование выбора технологии проектирования}{15}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Описание используемых технологий и языков программирования}{15}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Язык программирования PHP}{15}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}Язык программирования JavaScript}{16}{subsubsection.3.2.3}%
+\contentsline {paragraph}{\numberline {3.2.3.1}Достоинства языка JavaScript}{16}{paragraph.3.2.3.1}%
+\contentsline {paragraph}{\numberline {3.2.3.2}Недостатки языка Javascript}{16}{paragraph.3.2.3.2}%
+\contentsline {subsection}{\numberline {3.3}Диаграмма компонентов и схема обмена данными между файлами компонента}{16}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Диаграмма размещения}{19}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Содержание информационных блоков. Основные сущности}{20}{subsection.3.5}%
+\contentsline {section}{\numberline {4}Рабочий проект}{23}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Классы, используемые при разработке сайта}{23}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Модульное тестирование разработанного web-сайта}{23}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Системное тестирование разработанного web-сайта}{24}{subsection.4.3}%
+\contentsline {section}{ЗАКЛЮЧЕНИЕ}{27}{section*.14}%
+\contentsline {section}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}{27}{Item.16}%
+\contentsline {section}{ПРИЛОЖЕНИЕ А\ Фрагменты исходного кода программы}{30}{section*.16}%
